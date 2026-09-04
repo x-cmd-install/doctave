@@ -7,7 +7,7 @@ about:
   head: ad1888f
   archived: false
   latestVersion: 0.4.2
-  collectedAt: 2026-09-04T20:02:55Z
+  collectedAt: 2026-09-04T20:41:00Z
 timeline:
   created: 2020-09-11
   lastCommit: 2022-04-02
@@ -83,5 +83,53 @@ total:
   openIssue: 20
   commit: 214
 ---
+path: /home/runner/.x-repo/github.com/Doctave/doctave
+collectedAt: 2026-09-04T20:41:00Z
+loc:
+  Rust:
+    code: 3745
+    comments: 63
+    blanks: 700
+    files: 20
+  Css:
+    code: 680
+    comments: 26
+    blanks: 161
+    files: 3
+  JavaScript:
+    code: 471
+    comments: 10
+    blanks: 36
+    files: 277
+  Html:
+    code: 127
+    comments: 0
+    blanks: 12
+    files: 5
+  Toml:
+    code: 30
+    comments: 0
+    blanks: 2
+    files: 1
+  Yaml:
+    code: 13
+    comments: 0
+    blanks: 1
+    files: 1
+  Svg:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 991
+    blanks: 469
+    files: 19
+total:
+  code: 5155
+  comments: 1172
+  blanks: 1400
+  files: 327
 ---
 
