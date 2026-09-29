@@ -38,7 +38,7 @@ Total: **5,072** lines of code across **306** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 670 · **Forks**: 37 · **Open issues**: 40 · **Contributors**: 3
+- **Stars**: 670 · **Forks**: 38 · **Open issues**: 40 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,072** lines of code across **306** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-08 | 0 | 0 | 0 | 1 | 2 | 0 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-09 | 0 | 0 | 0 | 1 | 2 | 0 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for doctave lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:38:07Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:54:17Z._
